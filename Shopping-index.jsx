@@ -6,6 +6,7 @@ import { ShoppingDetails } from "./shopping-details";
 
 
 
+
 export function ShoppingIndex(){
     return(
         <div className="container-fluid">
